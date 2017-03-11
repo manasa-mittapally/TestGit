@@ -13,4 +13,12 @@ public class SimpleTest {
 		assertTrue(a+b==2);
 	
 	}
+	@Test
+	public void simpleTestPass1()
+	{
+		int a=1;
+		int b=1;
+		assertTrue(a+b==2);
+	
+	}
 }
