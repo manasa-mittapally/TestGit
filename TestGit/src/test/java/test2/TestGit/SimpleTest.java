@@ -17,7 +17,7 @@ public class SimpleTest {
 	public void simpleTestPass1()
 	{
 		int a=1;
-		int b=11;
+		int b=1;
 		assertTrue(a+b==2);
 	
 	}
